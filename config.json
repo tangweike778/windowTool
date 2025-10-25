@@ -1,0 +1,8 @@
+{
+  "apiKey": "sk-ea734e89d96344e39eccdfad20528514",
+  "model": "deepseek-chat",
+  "temperature": 0.7,
+  "apiEndpoint": "https://api.deepseek.com/chat/completions",
+  "qianwenAPIKey": "sk-9a16f78150e54533b35e5ffc5604bdb3",
+  "qianwenEndpoint": "https://dashscope.aliyuncs.com/api/v1/services/aigc/multimodal-generation/generation"
+}
